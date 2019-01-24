@@ -2,7 +2,7 @@
 A bullet-hell style game powered by python2 and pygame. This project is initalily created from a culminating assignment in ICS3U.
 
 # Execution
-To run the program, simpliy execute main.py
+To run the program, simpliy execute main.py.
 
 # Important
 + Please read the Readme.txt file for further details.
