@@ -39,12 +39,12 @@ To run the program, simpliy execute main.py.
   by integer values.
 
 # Screenshots
-![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%201.png)
-![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%202.png)
-![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%203.png)
-![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%204.png)
-![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%205.png)
-![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%206.png)
+![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%201.png "Main Menu")
+![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%202.png "In-Game")
+![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%203.png "Game-Over")
+![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%204.png "Bomb")
+![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%205.png "Pause")
+![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%206.png "Test-Room")
 
 # Tutorial 
 
@@ -83,7 +83,7 @@ that is dropped by boss type enemies.
 ## Bombs
 
 - Player has the ability to use a bomb to cancel all bombs in the area with the x button
-
+  
 	- This can be used as a last resort to save a life when the player 
 	is about the die by bullets
 
