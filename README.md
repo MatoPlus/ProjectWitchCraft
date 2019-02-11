@@ -38,6 +38,14 @@ To run the program, simpliy execute main.py.
 - Enemy bullet patterns seems gitchy due to fact that bullets may only be moved 
   by integer values.
 
+# Screenshots
+![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%201.png)
+![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%202.png)
+![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%203.png)
+![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%204.png)
+![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%205.png)
+![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%206.png)
+
 # Tutorial 
 
 ## Menus and Their Options
