@@ -2,7 +2,7 @@
 A bullet-hell style game powered by python2 and pygame. This project is initalily created from a culminating assignment in ICS3U.
 
 # Dependencies
-+ Python 2
++ Python 2 (Originally made in python2 but can be executed in python3)
 + PyGame
 
 # Usage
