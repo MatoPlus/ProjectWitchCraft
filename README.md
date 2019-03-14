@@ -3,7 +3,7 @@ A bullet-hell style game powered by python2 and pygame. This project is initalil
 
 # Dependencies
 + Python 2 (Originally made in python2 but can be executed in python3)
-+ PyGame
++ PyGame (for python2 or for python3 if not found.)
 
 # Usage
 To run the program, simpliy execute main.py.
