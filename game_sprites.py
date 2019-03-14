@@ -382,8 +382,8 @@ class Bomb(pygame.sprite.Sprite):
             self.image.set_colorkey((0,0,0))
             
             #Draw circle in surface.
-            pygame.draw.circle(self.image, (255,255,255), (self.__side/2
-                                , self.__side/2), self.__side/2, self.__width)
+            pygame.draw.circle(self.image, (255,255,255), (self.__side//2
+                                , self.__side//2), self.__side//2, self.__width)
             
             #Reset rect for proper collision.
             self.rect = self.image.get_rect()
