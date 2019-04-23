@@ -7,14 +7,6 @@
    file in the same file directory as main. 
 """
 
-#TO DO:
-#Game over and pause images to white.
-#SOUNDS
-#GAME OVER SCREEN - FADE INTO GAMEOVER SCREEN WITH OPTIONS 
-#WITH DIFFERENT REACTIONS...
-#DEBUGGING - SOUND NOT PLAYING SOMETIMES
-#COMMENTING REVISE
-
 # I - IMPORT AND INITIALIZE
 import pygame, game_sprites, random
 
