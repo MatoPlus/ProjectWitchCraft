@@ -6,7 +6,7 @@ A bullet-hell style game powered by python2 and pygame. This project is initalil
 + PyGame (for python2 or for python3 if not found.)
 
 # Usage
-To run the program, simpliy execute main.py.
+To run the program, simply execute main.py.
 
 # Important Note
 + I do not own any of the sound or image files containing in this project.
