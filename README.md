@@ -40,7 +40,7 @@ To run the program, simply execute main.py.
 
 # Demos
 ![Demo1](demo/demo1.gif "Gameplay")
-![Demo2](demo/demo2.gif "A enemy that appears later in the game...")
+![Demo2](demo/demo2.gif "An enemy that appears later in the game...")
 
 # Screenshots
 ![ScreenShot1](screenshots/screenshot1.png "Game-Over")
