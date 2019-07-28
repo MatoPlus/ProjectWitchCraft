@@ -38,13 +38,14 @@ To run the program, simply execute main.py.
 - Enemy bullet patterns seems gitchy due to fact that bullets may only be moved 
   by integer values.
 
+# Demos
+![Demo1](demo/demo1.gif "Gameplay")
+![Demo2](demo/demo2.gif "A enemy that appears later in the game...")
+
 # Screenshots
-![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%201.png "Main Menu")
-![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%202.png "In-Game")
-![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%203.png "Game-Over")
-![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%204.png "Bomb")
-![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%205.png "Pause")
-![ScreenShot](https://github.com/MatoPlus/ProjectWitchCraft/blob/master/screenshots/Screenshot%206.png "Test-Room")
+![ScreenShot1](screenshots/screenshot1.png "Game-Over")
+![ScreenShot2](screenshots/screenshot2.png "Bomb")
+![ScreenShot3](screenshots/screenshot3.png "Pause")
 
 # Tutorial 
 
