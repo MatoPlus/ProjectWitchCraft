@@ -1,15 +1,21 @@
 # Overview
 A bullet-hell style game powered by python2 and pygame. This project is initalily created for an original culminating assignment in ICS3U.
 
+# Demos
+![Demo1](demo/demo1.gif "Gameplay")
+![Demo2](demo/demo2.gif "An enemy that appears later in the game...")
+
+# Screenshots
+![ScreenShot1](screenshots/screenshot1.png "Game-Over")
+![ScreenShot2](screenshots/screenshot2.png "Bomb")
+![ScreenShot3](screenshots/screenshot3.png "Pause")
+
 # Dependencies
 + Python 2 (Originally made in python2 but can be executed in python3)
 + PyGame (for python2 or for python3 if not found.)
 
 # Usage
 To run the program, simply execute main.py.
-
-# Important Note
-+ I do not own any of the sound or image files containing in this project.
 
 # Features
 - Touhou styled bullet hell game - one hit, small hitbox and lots of bullets to dodge
@@ -29,23 +35,6 @@ To run the program, simply execute main.py.
 - Different fire types for player
 - Full animation
 - Full sounds
-
-# Known bugs/problems
-
-- Sound not playing when they are supposed to
-- Drops may merge together and look like a single drop
-- Bosses may target the same area when spawning and merge together
-- Enemy bullet patterns seems gitchy due to fact that bullets may only be moved 
-  by integer values.
-
-# Demos
-![Demo1](demo/demo1.gif "Gameplay")
-![Demo2](demo/demo2.gif "An enemy that appears later in the game...")
-
-# Screenshots
-![ScreenShot1](screenshots/screenshot1.png "Game-Over")
-![ScreenShot2](screenshots/screenshot2.png "Bomb")
-![ScreenShot3](screenshots/screenshot3.png "Pause")
 
 # Tutorial 
 
@@ -152,3 +141,15 @@ to new enemies with more complex bullet patterns.
 	of bullets.
 
 	- Last but not least... Have fun!
+
+# Known bugs/problems
+
+- Sound not playing when they are supposed to
+- Drops may merge together and look like a single drop
+- Bosses may target the same area when spawning and merge together
+- Enemy bullet patterns seems gitchy due to fact that bullets may only be moved 
+  by integer values.
+  
+# Important Note
++ I do not own any of the sound or image files containing in this project.
+
