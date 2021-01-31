@@ -1,4 +1,8 @@
-# Overview
+# Project Witchcraft
+
+![License: MIT](https://img.shields.io/github/license/codeprentice-org/fanotify.svg)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/codeprentice-org/fanotify.svg)
+
 A bullet-hell style game powered by python2 and pygame. This project is initalily created for an original culminating assignment in ICS3U.
 
 # Demos
